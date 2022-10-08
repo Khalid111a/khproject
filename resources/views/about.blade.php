@@ -10,6 +10,8 @@
 
         <div id="colo" class="mt-8">
             This page about us, here you can know everything about us.
+            Hello every one :::)))
+            <h1> and how are you doing  ???!!!! </h1>
         </div>
     </div>
 @endsection
