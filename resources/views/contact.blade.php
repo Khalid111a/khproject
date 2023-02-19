@@ -7,6 +7,7 @@
 
         <div id="colo" class="mt-8">
             This page Contact, here you can contact us .
+                         page Contact.
         </div>
     </div>
 @endsection
